@@ -1,2 +1,1 @@
-# LINEbot
-python flask LINEbot
+# Python3 Flask project
